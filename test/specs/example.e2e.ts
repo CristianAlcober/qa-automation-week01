@@ -1,4 +1,4 @@
-import LoginPage from '../pageobjects/login.page.js';
+import LoginPage from '../pageobjects/users.page.js';
 import SecurePage from '../pageobjects/secure.page.js';
 
 describe('My Login application', () => {
